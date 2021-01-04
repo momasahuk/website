@@ -2,10 +2,6 @@
 
 This is my Project
 
-## Updates
-
-Adding changes
-
 ## More Updates
 
 More Updates for automatic merge
@@ -13,4 +9,5 @@ More Updates for automatic merge
 ## Updates from main
 
 This is an update
-Trouble Update
+
+More Updates from Atom
